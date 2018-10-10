@@ -1,7 +1,7 @@
 # mini_project
 362 mini-project code and documentation
 
-# How to navigate this page
+## How to navigate this page
 The ideas for our projects are in different branches. 
 
 To switch to a new branch on GitHub:

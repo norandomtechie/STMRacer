@@ -1,0 +1,6 @@
+/Debug/
+.cproject
+/.settings/
+/CMSIS/
+/inc/
+/startup/

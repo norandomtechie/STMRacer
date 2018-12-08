@@ -1,14 +1,13 @@
-# mini_project
-362 mini-project code and documentation
+# STMRacer
+Go retro with this car racing game!
 
-## How to navigate this page
-The ideas for our projects are in different branches. 
+# Introduction
+Get to the checkpoint while racing past obstacles with your car! You play the game using a steering wheel as the car moves forward on its own, as you steer to avoid obstacles. The longer you remain in the game, the higher your score!
 
-To switch to a new branch on GitHub:
-* Click branch, followed by the project you want to check out. (pun wholly intended)
-
-To switch to a new branch on your local repo:
-* In your terminal, cd to the repo and type "git checkout <branch_name>"
+# Parts (tentative)
+* STM32F0Discovery evaluation board
+* Large LED display with multiple programmable individual LEDs
+* Steering wheel (or similar cheaper accessible mechanism)
 
 ## Project members
  - Niraj Menon
